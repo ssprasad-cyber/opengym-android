@@ -1,15 +1,29 @@
 # openGym Android
 
+<div align="center">
+
+<img src="assets/banner.png" alt="openGym" width="720">
+
+<br>
 > An unofficial Android build of [openGym](https://github.com/DuarteSantos8/openGym), published to make the Android app easier to download and install.
 
 [![License: AGPL v3](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](LICENSE)
 [![Android](https://img.shields.io/badge/platform-Android-green.svg)](https://www.android.com/)
 [![APK](https://img.shields.io/badge/download-APK-orange.svg)](#download)
 
+
+> [!NOTE]
+> **The official openGym project is available again.**
+>
+> Official website: https://opengym.duarte-santos.ch/
+>
+> This repository remains an **unofficial community Android build** that provides the Android source and signed APK, while all credit belongs to the original openGym project.
+
 ## About
 
 [openGym](https://github.com/DuarteSantos8/openGym) is a self-hosted gym and body-weight tracker designed around ownership of your workout data. It includes features such as weekly workout planning, guided workouts, exercise tracking, progression, body-weight tracking, statistics, and more. The original project also provides web, iOS/PWA, and Android experiences.
 This repository contains the **Android portion** of the project so that users who only want the Android app can easily access the source and a downloadable APK.
+
 
 ## Why this repository exists
 
@@ -25,7 +39,17 @@ I created this repository to make the Android build easier for the community to 
 This is **not an attempt to replace or claim ownership of openGym**. It is a community-maintained Android build based on the original project.
 
 ## Download
+<br>
 
+<div align="center">
+<table>
+<tr>
+<td align="center"><img src="assets/screenshots/home.png" alt="Home" width="230"><br><sub><b>Home</b> — today's workout & weight</sub></td>
+<td align="center"><img src="assets/screenshots/workout.png" alt="Workout" width="230"><br><sub><b>Guided workout</b> — animated demos & sets</sub></td>
+<td align="center"><img src="assets/screenshots/stats.png" alt="Stats" width="230"><br><sub><b>Stats</b> — heatmap, charts & PRs</sub></td>
+</tr>
+</table>
+</div>
 ### Android APK
 
 Download the latest **signed APK** from the [Releases](../../releases) page.
